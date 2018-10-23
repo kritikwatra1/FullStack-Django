@@ -1,0 +1,7 @@
+#box1{
+  border: 2px solid red;
+  width: 25%;
+  text-align: center;
+  /* rop right bottom left */
+  margin: auto;
+}

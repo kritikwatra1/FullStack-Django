@@ -1,0 +1,13 @@
+li{
+  color:blue;
+}
+
+.classone{
+  color: green;
+}
+
+#selectid{
+  color:pink;
+  border: 2px dotted blue;
+  text-decoration:underline;
+}
